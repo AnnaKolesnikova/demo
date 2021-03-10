@@ -6,7 +6,7 @@
       "price": 10,
       "category": Category.Fantasy,
       "createDate": 1997,
-      "isAvailable": true,
+      "isAvailable": true
   },
   {
       "id": 1,
@@ -16,7 +16,7 @@
       "price": 20,
       "category": Category.Adventure,
       "createDate": 1844,
-      "isAvailable": true,
+      "isAvailable": true
   },
   {
       "id": 2,
@@ -26,7 +26,7 @@
       "price": 30,
       "category": Category.Classics,
       "createDate": 1960,
-      "isAvailable": false,
+      "isAvailable": false
   },
   {
       "id": 3,
@@ -36,6 +36,6 @@
       "price": 25,
       "category": Category.Tragedy,
       "createDate": 1925,
-      "isAvailable": false,
-    },
+      "isAvailable": false
+    }
 ]
