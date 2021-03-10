@@ -4,7 +4,7 @@
         "name": "Harry Potter and Philosopher's Stone",
         "description": "Harry Potter, a young wizard who discovers his magical heritage on his eleventh birthday",
         "price": 10,
-        "category": Category.Fantasy,
+        "category": "Fantasy",
         "createDate": 1997,
         "isAvailable": true
     },
@@ -14,7 +14,7 @@
         "description":
             "The adventures of a young man named d'Artagnan after he leaves home to travel to Paris, hoping to join the Musketeers of the Guard.",
         "price": 20,
-        "category": Category.Adventure,
+        "category": "Adventure",
         "createDate": 1844,
         "isAvailable": true
     }
