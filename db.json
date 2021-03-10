@@ -1,10 +1,10 @@
-[
+{
   {
       "id": 0,
       "name": "Harry Potter and Philosopher's Stone",
       "description": "Harry Potter, a young wizard who discovers his magical heritage on his eleventh birthday",
       "price": 10,
-      "category": "Fantasy",
+      "category": Category.Fantasy,
       "createDate": 1997,
       "isAvailable": true
   },
@@ -38,4 +38,4 @@
       "createDate": 1925,
       "isAvailable": false
     }
-]
+}
