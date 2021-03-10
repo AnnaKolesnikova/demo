@@ -4,7 +4,7 @@
       "name": "Harry Potter and Philosopher's Stone",
       "description": "Harry Potter, a young wizard who discovers his magical heritage on his eleventh birthday",
       "price": 10,
-      "category": Category.Fantasy,
+      "category": "Fantasy",
       "createDate": 1997,
       "isAvailable": true
   },
